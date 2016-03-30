@@ -3,3 +3,9 @@ __pycache__
 
 # Ignore all backup files
 *~
+
+# Ignore the build dir
+build
+
+# Ignore any executables
+bin/*

@@ -4,8 +4,8 @@ from mouse_player import Player, Game
 import random
 import time
 
-target = 20
-num_play = 10**8
+target = 50
+num_play = 10**6
 sum_n = 0
 
 #turns = [0]*num_play
